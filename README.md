@@ -1,10 +1,10 @@
 ### Hi, I'm Heather Storseth 👋
 
-I'm a full stack developer and am currently located in Holland, Michigan.
+I'm a frontend developer and am currently located in Holland, Michigan.
 
-I am committed to a cleaner, more sustainable world and want to do my part to help improve it in a way that I love, creating! I enjoy creating modern, user friendly websites and aim to help likeminded companies improve their businesses.
+I enjoy creating modern, user friendly websites and want to help progressive oriented companies improve their businesses.
 
-I thoroughly enjoy learning/trying new things and testing out the niches and tricks of the different computer languages.  
+As a jack of all trades, I thoroughly enjoy learning new things, especially testing out the niches and tricks of the different languages.  
 
 ### Where to find me..
 
